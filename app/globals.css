@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* globals.css */
+@import "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css";
 
 html,
 body,
